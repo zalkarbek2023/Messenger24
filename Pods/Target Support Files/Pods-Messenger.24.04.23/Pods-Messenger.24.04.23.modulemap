@@ -1,0 +1,6 @@
+framework module Pods_Messenger_24_04_23 {
+  umbrella header "Pods-Messenger.24.04.23-umbrella.h"
+
+  export *
+  module * { export * }
+}
